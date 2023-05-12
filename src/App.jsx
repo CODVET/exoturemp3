@@ -64,7 +64,7 @@ const [urlResult,setUrlResult] = useState(null);
 
       </form>
 
-      {urlResult ? <a target='_blank' rel="noreferrer" href={urlResult} className="download-btn"><button className="moving">Take Me To The MP3</button></a> : ''}
+      {urlResult ? <a target='_blank' rel="noreferrer" href={urlResult} className="download-btn"><button className="moving">Take Me To DOWNLOAD</button></a> : ''}
       
 
     
