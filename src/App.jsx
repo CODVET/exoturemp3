@@ -60,7 +60,7 @@ const [urlResult,setUrlResult] = useState(null);
 
       <form onSubmit={handleSubmit} className="form" >
         <input ref={inputUrlRef} className="form-input" placeholder="Paste a Youtube URL Here..." type="tes" />
-        <button target='_blank' type="submit" className="form-button">Search</button>
+        <button target='_blank' type="submit" className="form-button">CONVERT</button>
 
       </form>
 
