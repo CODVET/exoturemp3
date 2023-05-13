@@ -53,7 +53,7 @@ const [urlResult,setUrlResult] = useState(null);
     <section className="content">
       <div className="exoture">Exoture</div>
       <div className="content-desc"> <u>Secure</u> | <u>Fast</u> | <u>Reliable</u></div>
-      <div className="content-desc2">Past Link, Search, MP3 Appears. -<u>Less Thank 10min</u>- </div>
+      <div className="content-desc2">Past Link, Search, MP3 Appears. -<u>Less Than 10min</u>- </div>
 
      <div className="desc3"> Click <u style={mystyle}>DOWNLOAD</u> on Next Page... Then Close It To Return. </div>
 
